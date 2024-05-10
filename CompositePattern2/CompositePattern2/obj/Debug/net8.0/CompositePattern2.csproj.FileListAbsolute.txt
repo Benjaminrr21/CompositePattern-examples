@@ -1,0 +1,14 @@
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\CompositePattern2\CompositePattern2\bin\Debug\net8.0\CompositePattern2.exe
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\CompositePattern2\CompositePattern2\bin\Debug\net8.0\CompositePattern2.deps.json
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\CompositePattern2\CompositePattern2\bin\Debug\net8.0\CompositePattern2.runtimeconfig.json
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\CompositePattern2\CompositePattern2\bin\Debug\net8.0\CompositePattern2.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\CompositePattern2\CompositePattern2\bin\Debug\net8.0\CompositePattern2.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\CompositePattern2\CompositePattern2\obj\Debug\net8.0\CompositePattern2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\CompositePattern2\CompositePattern2\obj\Debug\net8.0\CompositePattern2.AssemblyInfoInputs.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\CompositePattern2\CompositePattern2\obj\Debug\net8.0\CompositePattern2.AssemblyInfo.cs
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\CompositePattern2\CompositePattern2\obj\Debug\net8.0\CompositePattern2.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\CompositePattern2\CompositePattern2\obj\Debug\net8.0\CompositePattern2.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\CompositePattern2\CompositePattern2\obj\Debug\net8.0\refint\CompositePattern2.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\CompositePattern2\CompositePattern2\obj\Debug\net8.0\CompositePattern2.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\CompositePattern2\CompositePattern2\obj\Debug\net8.0\CompositePattern2.genruntimeconfig.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\CompositePattern2\CompositePattern2\obj\Debug\net8.0\ref\CompositePattern2.dll
